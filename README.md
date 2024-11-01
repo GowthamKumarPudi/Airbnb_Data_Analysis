@@ -1,4 +1,4 @@
-# Airbnb_Data_Analysis_Guvi_Capstone_project
+# Airbnb_Data_Analysis_Guvi_Capstone_Project
 
 NAME : GOWTHAM KUMAR PUDI
 
