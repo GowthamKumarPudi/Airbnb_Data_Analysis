@@ -37,35 +37,6 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
 4. Import Sample Data: From the MongoDB Atlas dashboard, navigate to the "Clusters" page and click on your cluster. In the cluster view, select the "Collections" tab and click on the "Sample Data" button.
 Choose the "Load Sample Dataset" option, and MongoDB Atlas will import the Airbnb sample data into your cluster. The sample data typically includes collections for listings, reviews, and users.
 
-Example AIRBNB data structure:
-
-	{"_id": "unique_listing_id",
- 	 "name": "listing_title",
- 	 "description": "listing_description",
-  	"host_id": "unique_host_id",
- 	 "host_name": "host_name",
- 	 "neighbourhood": "neighbourhood_name",
- 	 "location": 
-   {"type": "Point",
-   			 "coordinates": [longitude, latitude]
- 			 },
-"price": "listing_price",
- 	 "availability": {
-   			 "start_date": "YYYY-MM-DD",
-   			 "end_date": "YYYY-MM-DD"
-  },
-  	"amenities": ["amenity_1", "amenity_2", ...],
-  	"rating": "average_rating",
- 	 "reviews": [
-    			{
-     			 "reviewer_id": "unique_reviewer_id",
-      			"reviewer_name": "reviewer_name",
-      			"comment": "review_comment",
-     			 "rating": "review_rating"
-   			 }, ...
- 			 ], ...
-}
-
 Approach: 
 
 1. MongoDB Connection and Data Retrieval: Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset. Perform queries and data retrieval operations to extract the necessary information for your analysis.
@@ -85,19 +56,19 @@ Approach:
 8. Dashboard Creation: Utilize Tableau or Power BI to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
 
 The learning outcomes of this project are: 
-1.MongoDB Atlas: Gain proficiency in working with MongoDB Atlas to store and retrieve the Airbnb dataset, developing skills in data management with a NoSQL database technology.
+1. MongoDB Atlas: Gain proficiency in working with MongoDB Atlas to store and retrieve the Airbnb dataset, developing skills in data management with a NoSQL database technology.
 
-2.Streamlit Web Application: Build a user-friendly web application using Streamlit, enhancing skills in web application development for interactive data exploration and visualization.
+2. Streamlit Web Application: Build a user-friendly web application using Streamlit, enhancing skills in web application development for interactive data exploration and visualization.
 
-3.Python Data Analysis: Utilize Python for data cleaning, analysis, and visualization tasks, developing expertise in Python libraries such as Pandas and NumPy for data manipulation.
+3. Python Data Analysis: Utilize Python for data cleaning, analysis, and visualization tasks, developing expertise in Python libraries such as Pandas and NumPy for data manipulation.
 
-4.Geospatial Analysis: Leverage geospatial libraries like GeoPandas or Folium for geospatial data processing and visualization, gaining knowledge and skills in analyzing and visualizing spatial patterns.
+4. Geospatial Analysis: Leverage geospatial libraries like GeoPandas or Folium for geospatial data processing and visualization, gaining knowledge and skills in analyzing and visualizing spatial patterns.
 
-5.Tableau or Power BI: Create interactive dashboards using tools like Tableau or Power BI, refining skills in data visualization and dashboard creation for comprehensive data presentation.
+5. Tableau or Power BI: Create interactive dashboards using tools like Tableau or Power BI, refining skills in data visualization and dashboard creation for comprehensive data presentation.
 
-6.Data Cleaning and Preparation: Develop proficiency in cleaning and preparing the Airbnb dataset, including handling missing values, duplicates, and data type conversions, ensuring data quality and consistency.
+6. Data Cleaning and Preparation: Develop proficiency in cleaning and preparing the Airbnb dataset, including handling missing values, duplicates, and data type conversions, ensuring data quality and consistency.
 
-7.Data Visualization Techniques: Master data visualization techniques to effectively communicate insights, developing skills in creating visually appealing and informative charts, maps, and plots.
+7. Data Visualization Techniques: Master data visualization techniques to effectively communicate insights, developing skills in creating visually appealing and informative charts, maps, and plots.
 
 8.Problem-Solving Skills: Apply analytical skills to analyze pricing dynamics, availability patterns, and other factors, developing problem-solving abilities in extracting valuable insights from data.
 
