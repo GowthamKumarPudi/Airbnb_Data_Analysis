@@ -26,7 +26,7 @@ This project aims to analyze Airbnb data using MongoDB Atlas, perform data clean
    
 7. Create interactive visualizations that enable users to filter and drill down into the data.
 
-8.Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
+8. Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
 
 1. Create a MongoDB Atlas Account: Sign up for a MongoDB Atlas account by visiting the MongoDB Atlas website and follow the registration process to set up your account and create a new project.
    
@@ -70,8 +70,8 @@ The learning outcomes of this project are:
 
 7. Data Visualization Techniques: Master data visualization techniques to effectively communicate insights, developing skills in creating visually appealing and informative charts, maps, and plots.
 
-8.Problem-Solving Skills: Apply analytical skills to analyze pricing dynamics, availability patterns, and other factors, developing problem-solving abilities in extracting valuable insights from data.
+8. Problem-Solving Skills: Apply analytical skills to analyze pricing dynamics, availability patterns, and other factors, developing problem-solving abilities in extracting valuable insights from data.
 
-9.Data-Driven Decision Making: Enhance decision-making skills by enabling stakeholders to make informed choices based on the insights and visualizations provided by the project.
+9. Data-Driven Decision Making: Enhance decision-making skills by enabling stakeholders to make informed choices based on the insights and visualizations provided by the project.
 
-10.Collaboration and Project Management: Strengthen collaboration and project management skills through the end-to-end development of the project, including task planning, coordination, and timely delivery of project milestones.
+10. Collaboration and Project Management: Strengthen collaboration and project management skills through the end-to-end development of the project, including task planning, coordination, and timely delivery of project milestones.
