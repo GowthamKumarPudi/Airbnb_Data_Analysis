@@ -1,5 +1,13 @@
 # Airbnb_Data_Analysis_Guvi_Capstone_project
 
+NAME : GOWTHAM KUMAR PUDI
+
+LinkedIn: https://www.linkedin.com/posts/gowtham-kumar-pudi07_dataanalysis-airbnb-python-activity-7258116121004773376-CWBW?utm_source=share&utm_medium=member_desktop
+
+BATCH: DW73
+
+DOMAIN : DATA SCIENCE
+
 Problem Statement:
 
 This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. The objectives are to:
